@@ -1,0 +1,9 @@
+#sidebar_container{
+    height:20vh;
+    width:5vw;
+    transition: 2s;
+    background-color: blue;
+}
+#sidebar_container:hover{
+    width:30vw;
+}
