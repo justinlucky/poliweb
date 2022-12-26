@@ -1,0 +1,7 @@
+#header_container{
+    height: 10vh;
+    background-color: coral;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
